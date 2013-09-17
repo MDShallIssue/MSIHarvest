@@ -1,0 +1,10 @@
+('c:\\Users\\bmelton\\Google Drive\\mainwindow\\build\\pyi.win32\\msi.exe\\msi.exe.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1379443291L)

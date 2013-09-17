@@ -1,0 +1,10 @@
+('/Users/issue9mm/untitled1/dist/mainwindow',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1379429980)
